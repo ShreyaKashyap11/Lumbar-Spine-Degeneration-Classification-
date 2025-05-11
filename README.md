@@ -39,8 +39,10 @@ The EfficientNet backbone is fine-tuned with a custom classification head for mu
 
 ## 🔍 Output
 
-- `submission.csv` — Final test predictions in required format
-- `confusion_matrix.png` — Visual matrix comparing true vs predicted classes
+- `test_predictions.csv` — Final test predictions in required format
+- `training_log.csv`- Traning and validation test info
+- `training_accuracy.png` 
+- `training_loss.png`
 - `gradcam_visuals/` — Grad-CAM heatmaps for model explainability
 
 
