@@ -43,11 +43,5 @@ The EfficientNet backbone is fine-tuned with a custom classification head for mu
 - `confusion_matrix.png` — Visual matrix comparing true vs predicted classes
 - `gradcam_visuals/` — Grad-CAM heatmaps for model explainability
 
----
 
-## 🚀 How to Use
 
-1. Clone the repository  
-```bash
-git clone https://github.com/your-username/lumbar-degeneration-efficientnet.git
-cd lumbar-degeneration-efficientnet
